@@ -1,6 +1,5 @@
-@import "./common.wxss";
-@import "./reset.wxss";
+@import './wxParse/wxParse.wxss';
 
-.index {
-  color: green;
+.rich-text-view {
+  font-size: 24rpx;
 }
